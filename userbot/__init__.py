@@ -203,7 +203,7 @@ RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "ㅤ"
 REPO_NAME = os.environ.get("REPO_NAME") or "⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐"
 
 # Default botlog
-BOTLOG_MSG = os.environ.get("BOTLOG_MSG") or f"```💢 RAM - UBOT DAH AKTIF KONTOL!!! 💢```"
+BOTLOG_MSG = os.environ.get("BOTLOG_MSG") or f"```💢 ZYRINVX | U$BOT DAH AKTIF MEMEK PINK!!! 💢```"
 
 
 # Devg For gesss
@@ -296,7 +296,7 @@ OWNER_BOT = os.environ.get(
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
-DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐"
+DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "⚠️ZYRINVX×U$BOT"
 
 LASTFM_API = os.environ.get("LASTFM_API", None)
 LASTFM_SECRET = os.environ.get("LASTFM_SECRET", None)
@@ -456,7 +456,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 async def update_restart_msg(chat_id, msg_id):
     DEFAULTUSER = ALIVE_NAME or "Set `ALIVE_NAME` ConfigVar!"
     message = (
-        f"**⭐RAM-UBOT⭐ v{BOT_VER} Sedang berjalan!**\n\n"
+        f"**⚠️ZYRINVX×U$BOT v{BOT_VER} Sedang berjalan!**\n\n"
         f"**Telethon:** {version.__version__}\n"
         f"**Python:** {python_version()}\n"
         f"**User:** {DEFAULTUSER}"
@@ -526,7 +526,7 @@ def paginate_help(page_number, loaded_modules, prefix):
                     "< ̤< ̤", data="{}_prev({})".format(prefix, modulo_page)
                 ),
                 custom.Button.inline(
-                    f"⭐ 𝗖𝗟𝗢𝗦𝗘 ⭐", data="{}_close({})".format(prefix, modulo_page)
+                    f"⚠️ 𝗖𝗟𝗢𝗦𝗘 ⚠️", data="{}_close({})".format(prefix, modulo_page)
                 ),
                 custom.Button.inline(
                     "> ̤> ̤", data="{}_next({})".format(prefix, modulo_page)
@@ -552,7 +552,7 @@ with bot:
         async def handler(event):
             await event.message.get_sender()
             text = (
-                f"**Hey**, __I am using__  **⭐RAM-UBOT⭐** \n\n"
+                f"**Hey**, __I am using__  **ZYRINVX×U$BOT🗿🤙** \n\n"
                 f"       __Thanks For Using me__\n\n"
                 f"✨ **Group Support :** [GEEZ](t.me/Geezsupport)\n"
                 f"✨ **Owner Repo :** [LANDAK](t.me/ramsupportt)\n"
@@ -595,7 +595,7 @@ with bot:
                 result = builder.photo(
                     file=ramlogo,
                     link_preview=False,
-                    text=f"**✨ inline RAM-UBOT ✨**\n\n⭐ **Owner** [{user.first_name}](tg://user?id={user.id})\n✨ **Jumlah** `{len(dugmeler)}` Modules",
+                    text=f"**✨ online ZYRINVX×U$BOT ✨**\n\n⭐ **Owner** [{user.first_name}](tg://user?id={user.id})\n✨ **Jumlah** `{len(dugmeler)}` Modules",
                     buttons=buttons,
                 )
             elif query.startswith("repo"):
@@ -603,7 +603,7 @@ with bot:
                     title="Repository",
                     description="Repository ✨RAM-UBOT✨",
                     url="https://t.me/geezsupport",
-                    text="**⭐RAM-UBOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [RAMA](https://t.me/ramsupportt)\n✨ **Support :** @GeezSupportt\n✨ **Repository :** [⭐RAM-UBOT⭐](https://github.com/ramadhani892/RAM-UBOT)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**⭐ZYRINVX×U$BOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [RAMA](https://t.me/ramsupportt)\n✨ **Support :** @ZyrinVx\n✨ **Repository :** [⭐ZYRINVX×U$BOT⭐](https://github.com/ramadhani892/RAM-UBOT)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/Ramsupportt"),
@@ -616,7 +616,7 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    title="⭐ RAM-UBOT ⭐",
+                    title="⭐ZYRINVX×U$BOT⭐",
                     description="RAM-UBOT | Telethon",
                     url="https://t.me/ramsupportt",
                     text=f"**RAM-UBOT**\n➖➖➖➖➖➖➖➖➖➖\n✨ **OWNER:** [RAMA](t.me/ramsupportt)\n✨ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProjectt\n➖➖➖➖➖➖➖➖➖➖",
@@ -658,23 +658,23 @@ with bot:
                 result = builder.photo(
                     file=ramlogo,
                     link_preview=False,
-                    text=f"⭐RAM-UBOT⭐\n\n✨**Owner : [RAMA](t.me/teervigroup)**\n\n✨ **Bot Ver :** `8.0`\n✨ **𝗠odules :** `{len(dugmeler)}`",
+                    text=f"⭐ZYRINVX×U$BOT⭐\n\n✨**Owner : [RAMA](t.me/teervigroup)**\n\n✨ **Bot Ver :** `8.0`\n✨ **𝗠odules :** `{len(dugmeler)}`",
                     buttons=buttons,
                 )
             elif query.startswith("tb_btn"):
                 result = builder.article(
-                    "Bantuan Dari ⭐RAM-UBOT⭐ ",
+                    "Bantuan Dari ⭐ZYRINVX×U$BOT⭐ ",
                     text="Daftar Plugins",
                     buttons=[],
                     link_preview=True)
             else:
                 result = builder.article(
-                    " ⭐RAM-UBOT⭐ ",
-                    text="""**⭐RAM-UBOT⭐\n\n LU BIKIN REPO SENDIRI LAH NGENTOD NIH CARANYA:** __TEKEN DIBAWAH INI!__ 👇""",
+                    " ⭐ZYRINVX×U$BOT⭐ ",
+                    text="""**⭐ZYRINVX×U$BOT⭐\n\n LU BIKIN REPO SENDIRI LAH NGENTOD NIH CARANYA:** __TEKEN DIBAWAH INI!__ 👇""",
                     buttons=[
                         [
                             custom.Button.url(
-                                "⭐RAM-UBOT⭐",
+                                "⭐ZYRINVX×U$BOT⭐",
                                 "https://github.com/ramadhani892/RAM-UBOT"),
                             custom.Button.url(
                                 "OWNER",
