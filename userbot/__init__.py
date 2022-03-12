@@ -603,7 +603,7 @@ with bot:
                     title="Repository",
                     description="Repository ✨RAM-UBOT✨",
                     url="https://t.me/geezsupport",
-                    text="**⭐ZYRINVX×U$BOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [RAMA](https://t.me/ramsupportt)\n✨ **Support :** @ZyrinVx\n✨ **Repository :** [⭐ZYRINVX×U$BOT⭐](https://github.com/ramadhani892/RAM-UBOT)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**⭐ZYRINVX×U$BOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [RAMA](https://t.me/ramsupportt)\n✨ **Support :** @RAM_UBOT\n✨ **Repository :** [⭐ZYRINVX×U$BOT⭐](https://github.com/ramadhani892/RAM-UBOT)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/Ramsupportt"),
@@ -619,7 +619,7 @@ with bot:
                     title="⭐ZYRINVX×U$BOT⭐",
                     description="RAM-UBOT | Telethon",
                     url="https://t.me/ramsupportt",
-                    text=f"**RAM-UBOT**\n➖➖➖➖➖➖➖➖➖➖\n✨ **OWNER:** [RAMA](t.me/ramsupportt)\n✨ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProjectt\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**ZYRINVX×U$BOT**\n➖➖➖➖➖➖➖➖➖➖\n✨ **OWNER:** [RAMA](t.me/ramsupportt)\n✨ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProjectt\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/geezprojectt"),
