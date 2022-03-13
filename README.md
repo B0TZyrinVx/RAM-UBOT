@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+    <img src="https://media.discordapp.net/attachments/878213027290284072/952203309895258112/-6152067574213488823_121.jpg">
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
