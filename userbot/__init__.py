@@ -554,7 +554,9 @@ with bot:
             text = (
                 f"**Hey**, __I am using__  **ZYRINVX×U$BOT🗿🤙** \n\n"
                 f"       __Thanks For Using me__\n\n"
-                f"✨ **Group Support :** [GEEZ](t.me/Geezsupport)\n"
+                f"✨ **Group Support :** [t.me/Roycheater](t.me/Roycheater)\n"
+
+
                 f"✨ **Owner Repo :** [LANDAK](t.me/ramsupportt)\n"
                 f"✨ **Repo :** [RAM-UBOT](https://github.com/ramadhani892/RAM-BOT)\n"
             )
@@ -566,7 +568,7 @@ with bot:
                     [
                         custom.Button.url(
                             text="✨ REPO RAM-UBOT ✨",
-                            url="https://github.com/ramadhani892/RAM-UBOT",
+                            url="https://github.com/B0TZyrinVx/RAM-UBOT",
                         )
                     ],
                     [
@@ -601,9 +603,10 @@ with bot:
             elif query.startswith("repo"):
                 result = builder.article(
                     title="Repository",
-                    description="Repository ✨RAM-UBOT✨",
+                    description="Repository ✨ZyrinVx | U$BOT✨",
                     url="https://t.me/geezsupport",
-                    text="**⭐ZYRINVX×U$BOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [RAMA](https://t.me/ramsupportt)\n✨ **Support :** @RAM_UBOT\n✨ **Repository :** [⭐ZYRINVX×U$BOT⭐](https://github.com/ramadhani892/RAM-UBOT)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**⭐ZYRINVX×U$BOT⭐**\n➖➖➖➖➖➖➖➖➖➖\n✨ **Owner :** [ZyrinVx](t.me/Roycheater)\n✨ **Support :** @ZyrinVx_ubot\n✨ **Repository :** [⭐ZYRINVX×U$BOT⭐](https://github.com/B0TZyrinVx/RAM-UBOT) 
+➖➖➖➖➖➖➖➖➖➖✨"
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/Ramsupportt"),
@@ -619,7 +622,7 @@ with bot:
                     title="⭐ZYRINVX×U$BOT⭐",
                     description="RAM-UBOT | Telethon",
                     url="https://t.me/ramsupportt",
-                    text=f"**ZYRINVX×U$BOT**\n➖➖➖➖➖➖➖➖➖➖\n✨ **OWNER:** [RAMA](t.me/ramsupportt)\n✨ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProjectt\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**ZYRINVX×U$BOT**\n➖➖➖➖➖➖➖➖➖➖\n✨ **OWNER:** [ZyrinVx](t.me/Roycheater)\n✨ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProjectt\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/geezprojectt"),
